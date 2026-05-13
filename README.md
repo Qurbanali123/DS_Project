@@ -1,7 +1,7 @@
 # 🌍 AQI Data Science Project
 
 ## Student Information
-- **Name:** Zainub Hassan  
+- **Name:** Qurban Ali 
 - **Course:** IDS   
 
 ---
@@ -29,5 +29,5 @@ Air pollution is a major global challenge. The goal of this project is to analyz
 ## 🚀 How to Run the Notebook
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Zainub042/DS.git
+   git clone https://github.com/Qurbanali123/DS_Project
 
